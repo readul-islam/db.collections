@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "657e8c88129074d6035004ca"
+  },
+  "userRoles": "Senior Engineer",
+  "designation": "Software Developer",
+  "department": "Engineering",
+  "joiningDate": "2022-01-15",
+  "thisRoleStartDate": "2022-02-01",
+  "lastWorkingDate": null,
+  "empanelmentStatus": "Active",
+  "assignedLocationId": 1,
+  "employeeCode": "OFF456",
+  "onRollEntityId": null,
+  "offRollEntityId": 1,
+  "employeeSalaryId": 101,
+  "employeeDetailId": 201
+},
+{
+  "_id": {
+    "$oid": "657e8e94129074d6035004d8"
+  },
+  "userRoles": "HR Manager",
+  "designation": "Human Resources",
+  "department": "HR",
+  "joiningDate": "2021-07-10",
+  "thisRoleStartDate": "2021-08-01",
+  "lastWorkingDate": "2023-03-31",
+  "empanelmentStatus": "Inactive",
+  "assignedLocationId": 2,
+  "employeeCode": "OFF789",
+  "onRollEntityId": null,
+  "offRollEntityId": 2,
+  "employeeSalaryId": 102,
+  "employeeDetailId": 202
+}]

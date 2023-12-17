@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "657e8ccd129074d6035004cf"
+  },
+  "education": "Bachelor of Science in Computer Science",
+  "fatherName": "John Doe Sr.",
+  "motherName": "Jane Doe",
+  "dateOfBirth": "1990-05-15",
+  "gender": "Male",
+  "employmentType": "Full-time",
+  "bloodGroup": "AB+",
+  "nomineeName": "Sara Doe",
+  "nomineeRelation": "Spouse",
+  "emergencyContact": "9876543210",
+  "onRollEmployeeId": null,
+  "offRollEmployeeId": {
+    "$oid": "657e8c88129074d6035004ca"
+  },
+  "attendanceWithMobile": true,
+  "attendanceWithFDevice": false,
+  "attendanceLocationLock": true,
+  "aadhar": "1234-5678-9012",
+  "onRollEntityId": null,
+  "offRollEntityId": 1,
+  "userId": {
+    "$oid": "657e8873129074d6035004ac"
+  },
+  "companyId": {
+    "$oid": "657e8dca129074d6035004d4"
+  }
+},
+{
+  "_id": {
+    "$oid": "657e8f36129074d6035004db"
+  },
+  "education": "Ph.D. in Engineering",
+  "fatherName": "Robert Smith",
+  "motherName": "Mary Smith",
+  "dateOfBirth": "1978-03-10",
+  "gender": "Male",
+  "employmentType": "Permanent",
+  "bloodGroup": "A+",
+  "nomineeName": "Sophie Smith",
+  "nomineeRelation": "Spouse",
+  "emergencyContact": "7654321098",
+  "onRollEmployeeId": null,
+  "offRollEmployeeId": {
+    "$oid": "657e8e94129074d6035004d8"
+  },
+  "attendanceWithMobile": true,
+  "attendanceWithFDevice": true,
+  "attendanceLocationLock": true,
+  "aadhar": "8765-4321-0987",
+  "onRollEntityId": null,
+  "offRollEntityId": 2,
+  "userId": {
+    "$oid": "657e88b9129074d6035004ad"
+  },
+  "companyId": {
+    "$oid": "657e8dca129074d6035004d4"
+  }
+},
+{
+  "_id": {
+    "$oid": "657e90ca129074d6035004e4"
+  },
+  "education": "Ph.D. in Engineering",
+  "fatherName": "Sr.Jone Smith",
+  "motherName": "Lavya Smith",
+  "dateOfBirth": "1978-03-10",
+  "gender": "Male",
+  "employmentType": "Permanent",
+  "bloodGroup": "A+",
+  "nomineeName": "Jone Smith",
+  "nomineeRelation": "Spouse",
+  "emergencyContact": "7654321098",
+  "onRollEmployeeId": {
+    "$oid": "657e8f6a129074d6035004df"
+  },
+  "offRollEmployeeId": null,
+  "attendanceWithMobile": true,
+  "attendanceWithFDevice": true,
+  "attendanceLocationLock": true,
+  "aadhar": "8765-4321-0987",
+  "onRollEntityId": 1,
+  "offRollEntityId": null,
+  "userId": {
+    "$oid": "657e8919129074d6035004ae"
+  },
+  "companyId": {
+    "$oid": "657e8dca129074d6035004d4"
+  }
+},
+{
+  "_id": {
+    "$oid": "657e9184129074d6035004e9"
+  },
+  "education": "Master of Science in Computer Science",
+  "fatherName": "John Doe Sr.",
+  "motherName": "Alice Doe",
+  "dateOfBirth": "1980-05-15",
+  "gender": "Male",
+  "employmentType": "Permanent",
+  "bloodGroup": "B+",
+  "nomineeName": "Mary Doe",
+  "nomineeRelation": "Spouse",
+  "emergencyContact": "9876543210",
+  "onRollEmployeeId": {
+    "$oid": "657e8fd8129074d6035004e0"
+  },
+  "offRollEmployeeId": null,
+  "attendanceWithMobile": true,
+  "attendanceWithFDevice": true,
+  "attendanceLocationLock": false,
+  "aadhar": "1234-5678-9012",
+  "onRollEntityId": 2,
+  "offRollEntityId": null,
+  "userId": {
+    "$oid": "657e8971129074d6035004af"
+  },
+  "companyId": {
+    "$oid": "657e8dca129074d6035004d4"
+  }
+}]

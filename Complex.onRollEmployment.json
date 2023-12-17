@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "657e8f6a129074d6035004df"
+  },
+  "userRoles": "Marketing Specialist",
+  "designation": "Marketing",
+  "department": "Sales",
+  "joiningDate": "2022-05-20",
+  "thisRoleStartDate": "2022-06-01",
+  "lastWorkingDate": null,
+  "empanelmentStatus": "Active",
+  "assignedLocationId": 3,
+  "employeeCode": "ON123",
+  "onRollEntityId": 1,
+  "offRollEntityId": null,
+  "employeeSalaryId": 103
+},
+{
+  "_id": {
+    "$oid": "657e8fd8129074d6035004e0"
+  },
+  "userRoles": "Software Engineer",
+  "designation": "Junior Developer",
+  "department": "Development",
+  "joiningDate": "2022-05-20",
+  "thisRoleStartDate": "2022-06-01",
+  "lastWorkingDate": null,
+  "empanelmentStatus": "Active",
+  "assignedLocationId": 3,
+  "employeeCode": "ON642",
+  "onRollEntityId": 2,
+  "offRollEntityId": null,
+  "employeeSalaryId": 103
+}]

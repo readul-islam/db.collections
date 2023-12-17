@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "657e8873129074d6035004ac"
+  },
+  "email": "tonmoy@example.com",
+  "mobile": "9876543210",
+  "password": "password123",
+  "firstName": "Tonmoy",
+  "lastName": "Mahamud",
+  "fullName": "Tonmoy Mahamud",
+  "token": "abc123",
+  "userType": "employee",
+  "createdBy": "vendor",
+  "updatedBy": "vendor"
+},
+{
+  "_id": {
+    "$oid": "657e88b9129074d6035004ad"
+  },
+  "email": "readul@example.com",
+  "mobile": "565565565455",
+  "password": "password123",
+  "firstName": "Readul",
+  "lastName": "Islam",
+  "fullName": "Readul Islam",
+  "token": "abc123",
+  "userType": "employee",
+  "createdBy": "vendor",
+  "updatedBy": "vendor"
+},
+{
+  "_id": {
+    "$oid": "657e8919129074d6035004ae"
+  },
+  "email": "mezba@example.com",
+  "mobile": "94554454585",
+  "password": "password123",
+  "firstName": "Mezbaul Abedin",
+  "lastName": "Persian",
+  "fullName": "Mezbaul Abedin Persian",
+  "token": "abc123",
+  "userType": "employee",
+  "createdBy": "vendor",
+  "updatedBy": "vendor"
+},
+{
+  "_id": {
+    "$oid": "657e8971129074d6035004af"
+  },
+  "email": "mizanur@example.com",
+  "mobile": "94554454585",
+  "password": "password123",
+  "firstName": "Mizanur",
+  "lastName": "Rahman",
+  "fullName": "Mizanur Rahman",
+  "token": "abc123",
+  "userType": "user",
+  "createdBy": "admin",
+  "updatedBy": "admin"
+}]

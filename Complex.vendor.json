@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "657e8dca129074d6035004d4"
+  },
+  "companyName": "Microsoft",
+  "location": "United States"
+},
+{
+  "_id": {
+    "$oid": "657e8dd8129074d6035004d5"
+  },
+  "companyName": "Microsoft Corporation",
+  "location": "Redmond, WA, US"
+}]
